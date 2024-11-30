@@ -1,7 +1,7 @@
 # DBMS
 
 
-Use Xampp
+Use Xampp to connect database 
 
 
 CREATE DATABASE student_management;
